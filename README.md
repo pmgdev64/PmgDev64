@@ -7,3 +7,4 @@
 | :---: |
 | Code Gdi Malware (Anime Version) Using Python |
 | Minecraft Client Coder |
+![pmgdev64's Stats](https://github-readme-stats.vercel.app/api?username=pmgdev64&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
