@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src = "images/thumbnail.png" draggable = false>
+  <img src = "images/thumbnail.jpg" draggable = false>
 </div>
 
 # [VI] Tôi là người Việt nam, là quản lí của PmgTeam.
