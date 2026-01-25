@@ -18,3 +18,12 @@
 ### Favorites Programming Language, OS, IDE:
 <img src = "https://skillicons.dev/icons?i=java,python,cs,bash,html,css,js,linux,windows,arduino" draggable = false>
 
+---
+### Currently Learning:
+<img src = "https://skillicons.dev/icons?i=java,arduino" draggable = false>
+
+---
+### Snap Changelogs:
+<div align = "center">
+  <img src = "https://www.gitclear.com/snap_changelogs/1856ed0f-f093-462d-87bb-47d7d63463fa.png?snap_token=2f316ec9574cedb60e8be46c819f4533bd9415d6">
+</div>
