@@ -17,13 +17,13 @@
 ---
 ### Favorites Programming Language, OS, IDE:
 <div align = "center">
-   <img src = "https://skillicons.dev/icons?i=java,python,cs,bash,html,css,js,linux,windows,arduino,eclipse" draggable = false>
+   <img src = "https://skillicons.dev/icons?i=java,python,cs,bash,html,css,js,cpp,c,linux,windows,arduino,eclipse" draggable = false>
 </div>
 
 ---
 ### Currently Learning:
 <div align = "center">
-   <img src = "https://skillicons.dev/icons?i=java,arduino,cpp" draggable = false>
+   <img src = "https://skillicons.dev/icons?i=java,arduino,cpp,c" draggable = false>
 </div>
 
 ---
