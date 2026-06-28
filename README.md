@@ -23,13 +23,13 @@
 ---
 ### Currently Learning:
 <div align = "center">
-   <img src = "https://skillicons.dev/icons?i=java,arduino" draggable = false>
+   <img src = "https://skillicons.dev/icons?i=java,arduino,cpp" draggable = false>
 </div>
 
 ---
 ### Currectly Using IDE:
 <div align = "center">
-   <img src = "https://skillicons.dev/icons?i=eclipse" draggable = false>
+   <img src = "https://go-skill-icons.vercel.app/api/icons?i=codeblocks,eclipse" draggable = false>
 </div>
 
 ---
